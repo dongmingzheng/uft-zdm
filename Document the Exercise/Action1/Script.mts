@@ -1,0 +1,8 @@
+﻿Browser("Advantage Shopping").Page("Advantage Shopping").Link("speakersImg").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("speakersImg")_;_script infofile_;_ZIP::ssf1.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").Link("accordionPrice").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("accordionPrice")_;_script infofile_;_ZIP::ssf2.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").Link("accordionColor").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("accordionColor")_;_script infofile_;_ZIP::ssf3.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("WebElement").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("WebElement")_;_script infofile_;_ZIP::ssf4.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("productsColors55CDD5").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("productsColors55CDD5")_;_script infofile_;_ZIP::ssf5.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").Image("fetchImage?image_id=4700").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Image("fetchImage?image id4700")_;_script infofile_;_ZIP::ssf6.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save_to_cart").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save to cart")_;_script infofile_;_ZIP::ssf7.xml_;_
+Browser("Advantage Shopping").WinObject("Client Caption").Check CheckPoint("Client Caption") @@ hightlight id_;_1377784_;_script infofile_;_ZIP::ssf8.xml_;_
